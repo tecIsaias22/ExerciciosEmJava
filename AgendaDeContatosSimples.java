@@ -26,7 +26,7 @@ public class AgendaDeContatosSimples {
             System.out.println("\n1 - Listar todos os contatos");
             System.out.println("2 - Procurar contato pelo nome");
             System.out.println("4 - Adicionar novo contato");
-            System.out.println("3 - Sair");  // Agora sempre por último
+            System.out.println("3 - Sair");
             System.out.print("Escolha uma opção: ");
 
             opcao = scanner.nextInt();
